@@ -1,0 +1,43 @@
+% air_cargo.pl
+
+% Define the initial state of the cargo problem.
+% The initial state is represented by a list of the form
+% [c1, c2, p1, p2, sfo, jfk], where ci represents cargo i,
+% pi represents plane i, and sfo and jfk represent the two airports.
+
+initial_state([at(c1, sfo), at(c2, sfo), at(p1, sfo), at(p2, sfo), in(p1, sfo), in(p2, sfo)]).
+
+% Define the goal state of the cargo problem.
+% The goal state is represented by a list of the form
+% [at(c1, jfk), at(c2, jfk)], indicating that both cargoes are
+% at JFK airport.
+
+goal_state([at(c1, jfk), at(c2, jfk)]).
+
+% Define the actions that can be taken to achieve the goal.
+% An action is represented by a list of the form
+% [action_name, preconditions, effects].
+
+% Load an object onto a plane.
+% Preconditions: the plane and object must be at the same airport,
+% and the plane must be empty.
+% Effects: the object is in the plane, and the plane is no longer empty.
+action(load(c, p, a), [at(c, a), at(p, a), in(p, a)], [in(c, p), not(in(p, a))]).
+
+% Unload an object from a plane.
+% Preconditions: the plane must be at the destination airport,
+% and the object must be in the plane.
+% Effects: the object is no longer in the plane, and the plane is now empty.
+action(unload(c, p, a), [in(c, p), at(p, a)], [at(c, a), in(p, a), not(in(c, p))]).
+
+% Fly a plane from one airport to another.
+% Preconditions: the plane must be at the departure airport,
+% and the plane must be empty.
+% Effects: the plane is no longer at the departure airport, and it is now at the destination airport.
+action(fly(p, d, a), [at(p, d), in(p, d)], [at(p, a), not(at(p, d)), not(in(p, d))]).
+
+% Define a predicate for testing if a state is a valid solution to the problem.
+% A state is a valid solution if it satisfies the goal state.
+is_solution(State) :-
+    goal_state(Goal),
+    subset(Goal, State).

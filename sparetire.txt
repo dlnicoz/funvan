@@ -1,0 +1,24 @@
+state(car_parked).
+state(spare_trunk).
+state(flat_removed).
+state(spare_on_car).
+state(tight_nuts).
+
+init(state(car_parked)).
+
+action(open_trunk,state(car_parked),state(spare_trunk)).
+action(remove_spare,state(spare_trunk),state(spare_on_car)).
+action(remove_flat,state(car_parked),state(flat_removed)).
+action(place_spare,state(flat_removed),state(spare_on_car)).
+action(tighten_nuts,state(spare_on_car),state(tight_nuts)).
+
+goal(state(tight_nuts)).
+
+plan(Start,Goal,Plan):-
+    init(Start),
+    goal(Goal),
+    plan_(Start,Goal,Plan).
+plan_(Goal,Goal,[]):-!.
+plan_(Start,Goal,[Action|Tail]):-
+    action(Action,Start,Next),
+    plan_(Next,Goal,Tail).

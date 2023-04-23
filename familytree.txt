@@ -1,0 +1,30 @@
+male(rajpat).
+male(omprakash).
+male(shivam).
+
+female(gulabdevi).
+female(ambika).
+female(sneha).
+
+parent_of(rajpat,omprakash).
+parent_of(gulabdevi,omprakash).
+parent_of(omprakash,shivam).
+parent_of(omprakash,sneha).
+parent_of(ambika,shivam).
+parent_of(ambika,sneha).
+
+father_of(X,Y):- male(X),parent_of(X,Y).
+mother_of(X,Y):- female(X),parent_of(X,Y).
+
+grandfather_of(X,Y):- male(X),parent_of(X,Z),parent_of(Z,Y).
+grandmother_of(X,Y):- female(X),parent_of(X,Z),parent_of(Z,Y).
+
+siblings(X,Y):- parent_of(Z,X) , parent_of(Z,Y).
+sister_of(X,Y):- female(X),parent_of(Z,X),parent_of(Z,Y).
+brother_of(X,Y):- male(X),parent_of(Z,X),parent_of(Z,Y).
+
+grandson_of(X,Y):- male(X),parent_of(Y,Z),parent_of(Z,X).
+granddaughter_of(X,Y):- female(X),parent_of(Y,Z),parent_of(Z,X).
+
+son_of(X,Y):- male(X),parent_of(Y,X).
+daughter_of(X,Y):- female(X),parent_of(Y,X).
