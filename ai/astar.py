@@ -78,8 +78,8 @@ class A_Star_Solver:
 
 # Calling all the existing stuffs
 if __name__ == "__main__":
-    start1 = "hema"
-    goal1 = "mahe"
+    start1 = "dhiraz"
+    goal1 = "radhiz"
     print("Starting....")
     a = A_Star_Solver(start1,goal1)
     a.Solve()
