@@ -1,0 +1,216 @@
+ssc_p,hsc_p,hsc_s,degree_p,workex,etest_p,mba_p,status,salary
+67,91,Commerce,58,No,55,58.8,Placed,270000
+79.33,78.33,Science,77.48,Yes,86.5,66.28,Placed,200000
+65,68,Arts,64,No,75,57.8,Placed,250000
+56,52,Science,52,No,66,59.43,Not Placed,
+85.8,73.6,Commerce,73.3,No,96.8,55.5,Placed,425000
+55,49.8,Science,67.25,Yes,55,51.58,Not Placed,
+46,49.2,Commerce,79,No,74.28,53.29,Not Placed,
+82,64,Science,66,Yes,67,62.14,Placed,252000
+73,79,Commerce,72,No,91.34,61.29,Placed,231000
+58,70,Commerce,61,No,54,52.21,Not Placed,
+58,61,Commerce,60,Yes,62,60.85,Placed,260000
+69.6,68.4,Commerce,78.3,Yes,60,63.7,Placed,250000
+47,55,Science,65,No,62,65.04,Not Placed,
+77,87,Commerce,59,No,68,68.63,Placed,218000
+62,47,Commerce,50,No,76,54.96,Not Placed,
+65,75,Commerce,69,Yes,72,64.66,Placed,200000
+63,66.2,Commerce,65.6,Yes,60,62.54,Placed,300000
+55,67,Commerce,64,No,60,67.28,Not Placed,
+63,66,Commerce,64,No,68,64.08,Not Placed,
+60,67,Arts,70,Yes,50.48,77.89,Placed,236000
+62,65,Commerce,66,No,50,56.7,Placed,265000
+79,76,Commerce,85,No,95,69.06,Placed,393000
+69.8,60.8,Science,72.23,No,55.53,68.81,Placed,360000
+77.4,60,Science,64.74,Yes,92,63.62,Placed,300000
+76.5,97.7,Science,78.86,No,97.4,74.01,Placed,360000
+52.58,54.6,Commerce,50.2,Yes,76,65.33,Not Placed,
+71,79,Commerce,66,Yes,94,57.55,Placed,240000
+63,67,Commerce,66,No,68,57.69,Placed,265000
+76.76,76.5,Commerce,67.5,Yes,73.35,64.15,Placed,350000
+62,67,Commerce,58,No,77,51.29,Not Placed,
+64,73.5,Commerce,73,No,52,56.7,Placed,250000
+67,53,Science,65,No,64,58.32,Not Placed,
+61,81,Commerce,66.4,No,50.89,62.21,Placed,278000
+87,65,Science,81,Yes,88,72.78,Placed,260000
+62,51,Science,52,No,68.44,62.77,Not Placed,
+69,78,Commerce,72,No,71,62.74,Placed,300000
+51,44,Commerce,57,No,64,51.45,Not Placed,
+79,76,Science,65.6,No,58,55.47,Placed,320000
+73,58,Science,66,No,53.7,56.86,Placed,240000
+81,68,Science,64,No,93,62.56,Placed,411000
+78,77,Commerce,80,No,60,66.72,Placed,287000
+74,63.16,Commerce,65,Yes,65,69.76,Not Placed,
+49,39,Science,65,No,63,51.21,Not Placed,
+87,87,Commerce,68,No,95,62.9,Placed,300000
+77,73,Commerce,81,Yes,89,69.7,Placed,200000
+76,64,Science,72,No,58,66.53,Not Placed,
+70.89,71.98,Science,65.6,No,68,71.63,Not Placed,
+63,60,Commerce,57,Yes,78,54.55,Placed,204000
+63,62,Commerce,68,No,64,62.46,Placed,250000
+50,37,Arts,52,No,65,56.11,Not Placed,
+75.2,73.2,Science,68.4,No,65,62.98,Placed,200000
+54.4,61.12,Commerce,56.2,No,67,62.65,Not Placed,
+40.89,45.83,Commerce,53,No,71.2,65.49,Not Placed,
+80,70,Science,72,No,87,71.04,Placed,450000
+74,60,Science,69,No,78,65.56,Placed,216000
+60.4,66.6,Science,65,No,71,52.71,Placed,220000
+63,71.4,Commerce,61.4,No,68,66.88,Placed,240000
+68,76,Commerce,74,No,80,63.59,Placed,360000
+74,62,Science,68,No,74,57.99,Placed,268000
+52.6,65.58,Science,72.11,No,57.6,56.66,Placed,265000
+74,70,Science,72,Yes,60,57.24,Placed,260000
+84.2,73.4,Commerce,66.89,No,61.6,62.48,Placed,300000
+86.5,64.2,Science,67.4,No,59,59.69,Placed,240000
+61,70,Commerce,64,No,68.5,59.5,Not Placed,
+80,73,Commerce,75,No,61,58.78,Placed,240000
+54,47,Science,57,No,89.69,57.1,Not Placed,
+83,74,Science,66,No,68.92,58.46,Placed,275000
+80.92,78.5,Commerce,67,No,68.71,60.99,Placed,275000
+69.7,47,Commerce,72.7,No,79,59.24,Not Placed,
+73,73,Science,66,Yes,70,68.07,Placed,275000
+82,61,Science,62,No,89,65.45,Placed,360000
+75,70.29,Commerce,71,No,95,66.94,Placed,240000
+84.86,67,Science,78,No,95.5,68.53,Placed,240000
+64.6,83.83,Commerce,71.72,No,86,59.75,Placed,218000
+56.6,64.8,Commerce,70.2,No,84.27,67.2,Placed,336000
+59,62,Commerce,77.5,No,74,67,Not Placed,
+66.5,70.4,Arts,71.93,No,61,64.27,Placed,230000
+64,80,Science,65,Yes,69,57.65,Placed,500000
+84,90.9,Science,64.5,No,86.04,59.42,Placed,270000
+69,62,Science,66,No,75,67.99,Not Placed,
+69,62,Commerce,69,Yes,67,62.35,Placed,240000
+81.7,63,Science,67,Yes,86,70.2,Placed,300000
+63,67,Commerce,74,No,82,60.44,Not Placed,
+84,79,Science,68,Yes,84,66.69,Placed,300000
+70,63,Science,70,Yes,55,62,Placed,300000
+83.84,89.83,Commerce,77.2,Yes,78.74,76.18,Placed,400000
+62,63,Commerce,64,No,67,57.03,Placed,220000
+59.6,51,Science,60,No,75,59.08,Not Placed,
+66,62,Commerce,73,No,58,64.36,Placed,210000
+84,75,Science,69,Yes,62,62.36,Placed,210000
+85,90,Commerce,82,No,92,68.03,Placed,300000
+52,57,Commerce,50.8,No,67,62.79,Not Placed,
+60.23,69,Science,66,No,72,59.47,Placed,230000
+52,62,Commerce,54,No,72,55.41,Not Placed,
+58,62,Commerce,64,No,53.88,54.97,Placed,260000
+73,78,Commerce,65,Yes,95.46,62.16,Placed,420000
+76,70,Science,76,Yes,66,64.44,Placed,300000
+70.5,62.5,Commerce,61,No,93.91,69.03,Not Placed,
+69,73,Commerce,65,No,70,57.31,Placed,220000
+54,82,Commerce,63,No,50,59.47,Not Placed,
+45,57,Commerce,58,Yes,56.39,64.95,Not Placed,
+63,72,Commerce,68,No,78,60.44,Placed,380000
+77,61,Commerce,68,Yes,57.5,61.31,Placed,300000
+73,78,Science,73,Yes,85,65.83,Placed,240000
+69,63,Science,65,Yes,55,58.23,Placed,360000
+59,64,Science,58,No,85,55.3,Not Placed,
+61.08,50,Science,54,No,71,65.69,Not Placed,
+82,90,Commerce,83,No,80,73.52,Placed,200000
+61,82,Commerce,69,No,84,58.31,Placed,300000
+52,63,Science,65,Yes,86,56.09,Not Placed,
+69.5,70,Science,72,No,57.2,54.8,Placed,250000
+51,54,Science,61,No,60,60.64,Not Placed,
+58,61,Commerce,61,No,58,53.94,Placed,250000
+73.96,79,Commerce,67,No,72.15,63.08,Placed,280000
+65,68,Science,69,No,53.7,55.01,Placed,250000
+73,63,Science,66,No,89,60.5,Placed,216000
+68.2,72.8,Commerce,66.6,Yes,96,70.85,Placed,300000
+77,75,Science,73,No,80,67.05,Placed,240000
+76,80,Science,78,Yes,97,70.48,Placed,276000
+60.8,68.4,Commerce,64.6,Yes,82.66,64.34,Placed,940000
+58,40,Science,59,No,73,58.81,Not Placed,
+64,67,Science,69.6,Yes,55.67,71.49,Placed,250000
+66.5,66.8,Arts,69.3,Yes,80.4,71,Placed,236000
+74,59,Commerce,73,Yes,60,56.7,Placed,240000
+67,71,Science,64.33,Yes,64,61.26,Placed,250000
+84,73,Commerce,73,No,75,73.33,Placed,350000
+79,61,Science,75.5,Yes,70,68.2,Placed,210000
+72,60,Science,69,No,55.5,58.4,Placed,250000
+80.4,73.4,Science,77.72,Yes,81.2,76.26,Placed,400000
+76.7,89.7,Commerce,66,Yes,90,68.55,Placed,250000
+62,65,Commerce,60,No,84,64.15,Not Placed,
+74.9,57,Science,62,Yes,80,60.78,Placed,360000
+67,68,Commerce,64,Yes,74.4,53.49,Placed,300000
+73,64,Commerce,77,Yes,65,60.98,Placed,250000
+77.44,92,Commerce,72,Yes,94,67.13,Placed,250000
+72,56,Science,69,No,55.6,65.63,Placed,200000
+47,59,Arts,64,No,78,61.58,Not Placed,
+67,63,Commerce,72,No,56,60.41,Placed,225000
+82,64,Science,73,Yes,96,71.77,Placed,250000
+77,70,Commerce,59,Yes,58,54.43,Placed,220000
+65,64.8,Commerce,69.5,Yes,56,56.94,Placed,265000
+66,64,Science,60,No,60,61.9,Not Placed,
+85,60,Science,73.43,Yes,60,61.29,Placed,260000
+77.67,64.89,Commerce,70.67,No,89,60.39,Placed,300000
+52,50,Arts,61,No,60,58.52,Not Placed,
+89.4,65.66,Science,71.25,No,72,63.23,Placed,400000
+62,63,Science,66,No,85,55.14,Placed,233000
+70,74,Commerce,65,No,83,62.28,Placed,300000
+77,86,Arts,56,No,57,64.08,Placed,240000
+44,58,Arts,55,Yes,64.25,58.54,Not Placed,
+71,58.66,Science,58,Yes,56,61.3,Placed,690000
+65,65,Commerce,75,No,83,58.87,Placed,270000
+75.4,60.5,Science,84,No,98,65.25,Placed,240000
+49,59,Science,65,Yes,86,62.48,Placed,340000
+53,63,Science,60,Yes,70,53.2,Placed,250000
+51.57,74.66,Commerce,59.9,Yes,56.15,65.99,Not Placed,
+84.2,69.4,Science,65,Yes,80,52.72,Placed,255000
+66.5,62.5,Commerce,60.9,No,93.4,55.03,Placed,300000
+67,63,Science,64,No,60,61.87,Not Placed,
+52,49,Commerce,58,No,62,60.59,Not Placed,
+87,74,Science,65,Yes,75,72.29,Placed,300000
+55.6,51,Commerce,57.5,No,57.63,62.72,Not Placed,
+74.2,87.6,Commerce,77.25,Yes,75.2,66.06,Placed,285000
+63,67,Science,64,No,75,66.46,Placed,500000
+67.16,72.5,Commerce,63.35,No,53.04,65.52,Placed,250000
+63.3,78.33,Commerce,74,No,80,74.56,Not Placed,
+62,62,Commerce,60,Yes,63,52.38,Placed,240000
+67.9,62,Science,67,Yes,58.1,75.71,Not Placed,
+48,51,Commerce,58,Yes,60,58.79,Not Placed,
+59.96,42.16,Science,61.26,No,54.48,65.48,Not Placed,
+63.4,67.2,Commerce,60,No,58.06,69.28,Not Placed,
+80,80,Commerce,72,Yes,63.79,66.04,Placed,290000
+73,58,Commerce,56,No,84,52.64,Placed,300000
+52,52,Science,55,No,67,59.32,Not Placed,
+73.24,50.83,Science,64.27,Yes,64,66.23,Placed,500000
+63,62,Science,65,No,87.5,60.69,Not Placed,
+59,60,Commerce,56,No,55,57.9,Placed,220000
+73,97,Commerce,79,Yes,89,70.81,Placed,650000
+68,56,Science,68,No,73,68.07,Placed,350000
+77.8,64,Science,64.2,No,75.5,72.14,Not Placed,
+65,71.5,Commerce,62.8,Yes,57,56.6,Placed,265000
+62,60.33,Science,64.21,No,63,60.02,Not Placed,
+52,65,Arts,57,Yes,75,59.81,Not Placed,
+65,77,Commerce,69,No,60,61.82,Placed,276000
+56.28,62.83,Commerce,59.79,No,60,57.29,Not Placed,
+88,72,Science,78,No,82,71.43,Placed,252000
+52,64,Commerce,61,No,55,62.93,Not Placed,
+78.5,65.5,Science,67,Yes,95,64.86,Placed,280000
+61.8,47,Commerce,54.38,No,57,56.13,Not Placed,
+54,77.6,Commerce,69.2,No,95.65,66.94,Not Placed,
+64,70.2,Commerce,61,No,50,62.5,Not Placed,
+67,61,Science,72,No,72,61.01,Placed,264000
+65.2,61.4,Commerce,64.8,Yes,93.4,57.34,Placed,270000
+60,63,Arts,56,Yes,80,56.63,Placed,300000
+52,55,Commerce,56.3,No,59,64.74,Not Placed,
+66,76,Commerce,72,Yes,84,58.95,Placed,275000
+72,63,Science,77.5,Yes,78,54.48,Placed,250000
+83.96,53,Science,91,No,59.32,69.71,Placed,260000
+67,70,Commerce,65,No,88,71.96,Not Placed,
+69,65,Commerce,57,No,73,55.8,Placed,265000
+69,60,Commerce,65,No,87.55,52.81,Placed,300000
+54.2,63,Science,58,No,79,58.44,Not Placed,
+70,63,Science,66,No,61.28,60.11,Placed,240000
+55.68,61.33,Commerce,56.87,No,66,58.3,Placed,260000
+74,73,Commerce,73,Yes,80,67.69,Placed,210000
+61,62,Commerce,65,No,62,56.81,Placed,250000
+41,42,Science,60,No,97,53.39,Not Placed,
+83.33,78,Commerce,61,Yes,88.56,71.55,Placed,300000
+43,60,Science,65,No,92.66,62.92,Not Placed,
+62,72,Commerce,65,No,67,56.49,Placed,216000
+80.6,82,Commerce,77.6,No,91,74.49,Placed,400000
+58,60,Science,72,No,74,53.62,Placed,275000
+67,67,Commerce,73,Yes,59,69.72,Placed,295000
+74,66,Commerce,58,No,70,60.23,Placed,204000
+62,58,Science,53,No,89,60.22,Not Placed,
